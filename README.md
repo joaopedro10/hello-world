@@ -1,4 +1,6 @@
-# hello-world
+# Hello World! 👋
 
-Hello World! My name is João Pedro Lopes. I live in the city of Teresina, Brazil.
-I like Brazilian History (mainly the magnificent Empire of Brazil) and wikis (like Wikipedia and Uncyclopedia).
+- 👦 My name is João Pedro Lopes.
+- 🏠 I live in Teresina, Brazil.
+- 🌱 I’m currently learning web application building and data science.
+- ⚡ Fun fact: In my spare time I like to read about Brazilian history and edit on wikis (like Wikipedia).
